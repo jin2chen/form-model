@@ -4,6 +4,8 @@ The package helps with implementing data entry forms.
 
 [![Build status](https://github.com/jin2chen/form-model/workflows/build/badge.svg)](https://github.com/jin2chen/form-model/actions?query=workflow%3Abuild)
 [![static analysis](https://github.com/jin2chen/form-model/workflows/static%20analysis/badge.svg)](https://github.com/jin2chen/form-model/actions?query=workflow%3A%22static+analysis%22)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jin2chen/form-model/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jin2chen/form-model/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/jin2chen/form-model/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/jin2chen/form-model/?branch=master)
 
 ### Installation
 
